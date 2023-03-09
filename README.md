@@ -1,6 +1,6 @@
 Hi, I'm Kari
 
-I program on python, lua and a bit on javascript.
+I program on python. And I create bots on it
 
 Also I know html&css.
 
