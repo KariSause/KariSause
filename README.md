@@ -5,7 +5,7 @@
 </p>
 
 ## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/KariSauce)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/KariSauce)
 
 I'm backend Python developer and also freelancer.
 
